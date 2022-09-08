@@ -1,1 +1,0 @@
-# the-foodie-review-frontend
